@@ -39,7 +39,7 @@ h3 {
 p {
 	font-size: .875em;
 	line-height: 21px;
-    padding: 0 30px;
+
 }
 
 /*The widths are in a percentage!*/
@@ -127,7 +127,7 @@ header nav ul li a{
 }
 
 .section-one {
-	padding: 10px 0px;
+
 
 }
 
@@ -138,11 +138,11 @@ header nav ul li a{
 
 .section-two h3,
 .section-three h3 {
-	padding: 10px 30px;
+
 }
 .menu {
 	list-style: none;
-	padding: 0;
+
 }
 .menu li {
 	padding: 10px 0;
